@@ -1,0 +1,9 @@
+{
+  "name": "@template/write",
+  "version": "0.0.1",
+  "type": "commonjs",
+  "dependencies": {
+    "markup-generator": "^2.4.0",
+    "stringify-attributes": "^3.0.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "nmtg-template-mailerlite-typography",
+  "version": "5.0.1",
+  "type": "commonjs",
+  "dependencies": {
+    "stringify-attributes": "^3.0.0",
+    "html-typography-tags": "*"
+  }
+}
